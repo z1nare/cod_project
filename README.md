@@ -1,2 +1,2 @@
-# pdf_parsing
-Placeholder for the project
+# Camouflaged Object Detection
+Placeholder for the project and Research
